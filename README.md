@@ -1,4 +1,4 @@
-# data engineer
+# Data Engineer
 
 ### Education
 MBA - Business Analytics, Mining Engineering
