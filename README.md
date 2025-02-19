@@ -2,13 +2,13 @@
 
 ### Skills: Python, SQL, Airflow, ETL, Data Modelling
 
-### Education
-MBA - Business Analytics, Mining Engineering
-
 ### Certifications
 #Associate Data Engineer(Datacamp) - Certificate No. DEA0015975217066
 #SQL Associate(Datacamp) - Certificate No. SQA001104371949
 #AI Fundamentals (Datacamp) - Certificate No. AIF0026311266552
+
+### Education
+MBA - Business Analytics, Mining Engineering
 
 # Projects
 ### [Steam Games ETL Project](https://github.com/darkrai19/steam_games_etl_project)
