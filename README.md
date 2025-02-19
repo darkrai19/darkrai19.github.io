@@ -11,7 +11,13 @@ MBA - Business Analytics, Mining Engineering
 #AI Fundamentals (Datacamp) - Certificate No. AIF0026311266552
 
 # Projects
-### Steam Games ETL Project
-[Repository](https://github.com/darkrai19/steam_games_etl_project)
+### [Steam Games ETL Project](https://github.com/darkrai19/steam_games_etl_project)
 
 Developed an end-to-end ETL pipeline for Steam Games dataset using Python. Loading the file via csv or directly thru postgre database.
+
+### [Building Financial Reports](https://github.com/darkrai19/building_financial_reports)
+
+This is a simple data analysis project wherein the goal is to answer the following questions:
+-Which company type (comp_type) has the lowest profitability ratio?
+-Which company type has the highest leverage ratio?
+-Is there a relationship between profitability and leverage ratio for real_est (real estate) type companies?
