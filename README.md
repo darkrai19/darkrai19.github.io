@@ -1,6 +1,6 @@
-# Data Engineer
+# Data and AI Engineer
 
-### Skills: Python, SQL, Airflow, ETL, Data Modelling
+### Skills: Python, SQL, GenAI, Streamlit, Vector Database, Cloud
 
 ### Certifications
 - Associate Data Engineer(Datacamp) - Certificate No. DEA0015975217066
@@ -11,6 +11,19 @@
 MBA - Business Analytics, Mining Engineering
 
 # Projects
+### [AI Powered Analyst](https://github.com/darkrai19/ai_powered_analyst)
+This project is the result of an exciting (and at times wild) ride into building a fully end-to-end AI data analyst—one that turns plain English into live data insights and beautiful charts, no SQL needed.
+- Schema Discovery: It inspects the live PostgreSQL schema to understand available data.
+- Intelligent Planning: It decides whether to use SQL directly or pull raw data for in-depth Python analysis with pandas.
+- Insight Generation: It runs the queries and summarizes the insights in plain language.
+- Charting: Based on the result type, it picks the right visualization (bar for categories, line for trends, etc.) and builds it using Plotly.
+
+Specifications:
+- Backend: Python, PostgreSQL
+- AI: Langchain, OpenAI (GPT-4o)
+- Frontend: Streamlit
+- Infra: AWS EC2
+
 ### [Multimodal RAG AI](https://github.com/darkrai19/multimodal_rag_ai)
 Here are some examples of what it can do:
 - Organizing Information: Quickly sort through documents that include both written content and visuals, like reports or scanned files.
